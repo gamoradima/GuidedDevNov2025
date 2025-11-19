@@ -1,0 +1,103 @@
+= MetaData.Schema.UId "769737f3-3a88-4a00-b27d-9501deb22bf7"
+= MetaData.Schema.A2 "UsrYachtRental"
+= MetaData.Schema.A5 "36c35f0c-5b29-449c-9580-5f83826f7ea8"
+= MetaData.Schema.B6 "0b556022-d4a0-42e0-97d4-5ca42efa1fd0"
+= MetaData.Schema.B8 "8.3.1.4481"
+= MetaData.Schema.EG1.UId "db84c182-6fd9-45ee-a654-ce239417389a"
+= MetaData.Schema.EG1.A2 "UsrEntity_dc7976eEventsProcess"
+= MetaData.Schema.EG1.A5 "36c35f0c-5b29-449c-9580-5f83826f7ea8"
++ MetaData.Schema.EG1.B8 "8.3.1.4481"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.JC1 []
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "d80f4534-b206-2f30-dc84-b4c7165b49b1",
+  "A2": "UsrComment",
+  "A3": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A4": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "e6a4549a-0e0e-6013-4a54-ec47264b2d37",
+  "A2": "UsrCustomer",
+  "A3": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A4": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E20": true,
+  "E17": "UsrCustomerId",
+  "E18": "UsrCustomerName"
+}
++ MetaData.Schema.D2 {
+  "UId": "7f59c419-6712-f717-2dc1-ffd3a4e30029",
+  "A2": "UsrEndDate",
+  "A3": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A4": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01",
+  "E12": {
+    "FB1": 3,
+    "FB2": "91bd3856-9686-4eb2-9e7c-99f1e6ca0f02"
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "a4fe6c7a-eada-4bd9-15c3-fb98b82d546f",
+  "A2": "UsrStartDate",
+  "A3": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A4": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8",
+  "S2": "603d4960-a1a2-45e9-b232-206a54421b01",
+  "E2": 1,
+  "E12": {
+    "FB1": 3,
+    "FB2": "91bd3856-9686-4eb2-9e7c-99f1e6ca0f02"
+  }
+}
++ MetaData.Schema.D2 {
+  "UId": "d831eed5-1708-6c83-1a57-42e784bebb15",
+  "A2": "UsrParentYacht",
+  "A3": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A4": "769737f3-3a88-4a00-b27d-9501deb22bf7",
+  "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b50e4d17-3c7c-4714-a832-6066fb7c05e3",
+  "E2": 1,
+  "E6": true,
+  "E9": true,
+  "E17": "UsrParentYachtId",
+  "E18": "UsrParentYachtUsrName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","d80f4534-b206-2f30-dc84-b4c7165b49b1","e6a4549a-0e0e-6013-4a54-ec47264b2d37","7f59c419-6712-f717-2dc1-ffd3a4e30029","a4fe6c7a-eada-4bd9-15c3-fb98b82d546f","d831eed5-1708-6c83-1a57-42e784bebb15"]
+= MetaData.Schema.D20.A2 "UsrYachtRentalEvents"
+= MetaData.Schema.D36.A3 "769737f3-3a88-4a00-b27d-9501deb22bf7"
+= MetaData.Schema.D36.BS1 false
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false
