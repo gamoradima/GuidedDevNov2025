@@ -8,6 +8,7 @@
 			<Item Name="LocalizableStrings.addRecord_pms80wt_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_ql3kxk4_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_xvuaheg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_uxxfbr2_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.CrewCountCannotBeLess.Value" Value="Crew count cannot be less than 1." />
 			<Item Name="LocalizableStrings.EmailInput_89339jx_caption.Value" Value="Email address" />
 			<Item Name="LocalizableStrings.EmailInput_89339jx_label.Value" Value="Manager email" />
@@ -23,6 +24,7 @@
 			<Item Name="LocalizableStrings.PassengersCountCannotBeLess.Value" Value="Passengers count cannot be less than 1." />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50 USD" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunCalcTicketPriceMenuItem_caption.Value" Value="Start run avg ticket price process" />
 		</Items>
 	</Group>
 </Resources>
