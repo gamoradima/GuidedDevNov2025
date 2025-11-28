@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "9fc89311-ccf6-4dea-af06-6d2cda301ac9",
+      "A2": "UsrYachtEvents",
+      "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "de85c76c-204d-779a-bc91-8ad3f25ee9a3",
+          "A2": "ValueIsTooBig",
+          "A3": "9fc89311-ccf6-4dea-af06-6d2cda301ac9",
+          "A4": "9fc89311-ccf6-4dea-af06-6d2cda301ac9",
+          "A5": "36c35f0c-5b29-449c-9580-5f83826f7ea8"
+        }
+      ],
+      "B3": [],
+      "B6": "0b556022-d4a0-42e0-97d4-5ca42efa1fd0",
+      "B8": "8.3.1.4481",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

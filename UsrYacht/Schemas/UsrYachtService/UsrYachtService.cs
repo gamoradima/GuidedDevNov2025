@@ -21,6 +21,7 @@ namespace Terrasoft.Configuration
             {
                 return -1;
             }
+
             Select select = new Select(UserConnection)
                 .Column(Func.Max("UsrPrice"))
                 .From("UsrYacht")
